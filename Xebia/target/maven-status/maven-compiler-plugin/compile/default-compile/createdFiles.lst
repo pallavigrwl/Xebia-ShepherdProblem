@@ -1,0 +1,13 @@
+com\yak\spring\domain\OrderInput.class
+com\yak\spring\actuator\log4j\YakController.class
+com\yak\spring\domain\Herd.class
+com\yak\spring\domain\Stock.class
+com\yak\spring\actuator\log4j\SampleActuatorApplication.class
+com\yak\spring\domain\LabyakOutput.class
+com\yak\spring\actuator\log4j\YakService.class
+com\yak\spring\actuator\log4j\HerdListCache.class
+com\yak\spring\actuator\log4j\YakService$1.class
+com\yak\spring\actuator\log4j\ServiceProperties.class
+com\yak\spring\domain\HerdPojo.class
+com\yak\spring\domain\LabYak.class
+com\yak\spring\domain\Herd$Yak.class
